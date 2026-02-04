@@ -25,8 +25,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuGeR704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuGeR704&layout=compact&langs_count=7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=RuGeR704&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RuGeR704&theme=tokyonight" height="200" />
 </p>
 
 ---
