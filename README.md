@@ -1,28 +1,53 @@
-<h1 align="center">Hey, I'm RuGeR704, this is my GitHub profile!</h1>
+<h1 align="center">👋 Hey, I'm RuGeR704!</h1>
 
-I'm an italian CS student from University of Salerno, here you can find all my projects!
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
+
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java,c,py,js,html,css,bootstrap,mysql" />
 </div>
 
-###
+---
+
+### 🚀 About Me
+
+- 🇮🇹 I’m an italian CS student.
+- 👾​ I’m interested in creative and cool projects!
+- 🤝​ If you want to collaborate with me, write a mail to: gerardorusso0407@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuGeR704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuGeR704&layout=compact&langs_count=7&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://github.com/RuGeR704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RuGeR704" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
 
 
 ###
