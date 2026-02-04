@@ -35,9 +35,12 @@
 
 <p align="left">
 <a href="https://github.com/RuGeR704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RuGeR704" height="30" width="40" /></a>
-</p>
-
-<p align="center">
+<a href="https://www.linkedin.com/in/gerardorusso7704/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:gerardorusso0407@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
+  </a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
 
