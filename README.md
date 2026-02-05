@@ -18,7 +18,7 @@
 
 - 🇮🇹 I’m an italian CS student.
 - 👾​ I’m interested in creative and cool projects!
-- 🤝​ If you want to collaborate with me, write a mail to: gerardorusso0407@gmail.com
+- 🤝​ If you want to collaborate with me, send a mail to: gerardorusso0407@gmail.com
 
 ---
 
